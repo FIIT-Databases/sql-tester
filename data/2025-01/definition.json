@@ -1,0 +1,36 @@
+{
+	"database": "nba",
+	"name": "Assignment 1",
+	"tasks": [
+		{
+			"solution": "data/2025-01/1.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "1.sql"
+		},
+		{
+			"solution": "data/2025-01/2.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "2.sql"
+		},
+		{
+			"solution": "data/2025-01/3.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "3.sql"
+		},
+		{
+			"solution": "data/2025-01/4.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "4.sql"
+		},
+		{
+			"solution": "data/2025-01/5.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "5.sql"
+		},
+		{
+			"solution": "data/2025-01/6.sql",
+			"placeholders": ["campaign", "q"],
+			"file": "6.sql"
+		}
+	]
+}

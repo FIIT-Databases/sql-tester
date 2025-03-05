@@ -1,0 +1,11 @@
+.idea/
+.github/
+.git/
+.venv/
+__pycache__
+*.DS_Store
+*.pyo
+venv/
+.editorconfig
+.gitignore
+*.zip
